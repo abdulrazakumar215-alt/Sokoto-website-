@@ -1,0 +1,12 @@
+<header>
+  <img src="images/hisbah-logo.png" alt="Tambarin Hisbah" class="logo">
+  <h1>Hukumar Hisbah - Jihar Sokoto</h1>
+  <nav>
+    <ul>
+      <li><a href="#">Gida</a></li>
+      <li><a href="#">Game da Mu</a></li>
+      <li><a href="#">Ayyuka</a></li>
+      <li><a href="#">Tuntube Mu</a></li>
+    </ul>
+  </nav>
+</header>
