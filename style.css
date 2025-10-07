@@ -195,3 +195,12 @@ footer {
     padding: 1rem;
   }
   }
+section h2 {
+  color: #006400;
+  margin-top: 2rem;
+}
+
+section ul {
+  padding-left: 1.5rem;
+  list-style-type: disc;
+  }
