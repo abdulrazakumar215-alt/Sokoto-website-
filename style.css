@@ -56,3 +56,13 @@ logo {
   text-align: right;
   margin: 10px;
   }
+.contact {
+  background-color: #e6ffe6;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 2rem;
+}
+.contact a {
+  color: #006400;
+  text-decoration: underline;
+  }
